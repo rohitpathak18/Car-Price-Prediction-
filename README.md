@@ -23,3 +23,9 @@ https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.
 
 ## A glimpse of the web app:
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/49580063/111056632-85d99980-84a6-11eb-8134-d431672dc425.gif)
+
+
+## Connect with me! 🌐
+- [[Linkedin]](bit.ly/3xNkOzO)
+- [[Instagram]](bit.ly/3eTGyRT)
+- [[Twitter]](bit.ly/3aWT16g)
