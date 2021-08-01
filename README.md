@@ -2,7 +2,7 @@
 * This is a machine learning model made using python and flask which predicts the selling price of second-hand cars.
 * This web application have 2040 unique cars and it can predict selling price of that cars in INR.
 * Do ⭐ the repository, if it helped you in anyway.
-* If you want to try this out, head to Carpriceprediction-env.eba-akjaiqxt.us-east-2.elasticbeanstalk.com
+* If you want to try this out, head to https://Carpriceprediction-env.eba-akjaiqxt.us-east-2.elasticbeanstalk.com
 ## Data source:
 https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=Car+details+v3.csv
 
